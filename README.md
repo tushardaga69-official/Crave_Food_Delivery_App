@@ -76,12 +76,11 @@ Designed a clean and modern mobile app interface with:
 ---
 
 ## 📷 Preview
-<img width="1588" height="3442" alt="1" src="https://github.com/user-attachments/assets/609ed4a5-a923-4806-a56e-bcfe0ab8ebc5" />
-<img width="1588" height="3442" alt="2" src="https://github.com/user-attachments/assets/e00672d7-d1dd-432d-b18e-7c8dc1141461" />
-<img width="1588" height="3442" alt="3" src="https://github.com/user-attachments/assets/560730f4-f708-4c0d-80ef-e42b5242fa58" />
-<img width="1588" height="3442" alt="4" src="https://github.com/user-attachments/assets/5f11ff92-35d9-47a6-9569-30eec21fe280" />
-<img width="1588" height="3983" alt="5" src="https://github.com/user-attachments/assets/757fb2fa-eb29-4c60-90ed-80abebc0cd5e" />
-
+<img src="https://github.com/user-attachments/assets/609ed4a5-a923-4806-a56e-bcfe0ab8ebc5" width="250"/>
+<img src="https://github.com/user-attachments/assets/e00672d7-d1dd-432d-b18e-7c8dc1141461" width="250"/>
+<img src="https://github.com/user-attachments/assets/560730f4-f708-4c0d-80ef-e42b5242fa58" width="250"/>
+<img src="https://github.com/user-attachments/assets/5f11ff92-35d9-47a6-9569-30eec21fe280" width="250"/>
+<img src="https://github.com/user-attachments/assets/757fb2fa-eb29-4c60-90ed-80abebc0cd5e" width="250"/>
 
 ---
 
